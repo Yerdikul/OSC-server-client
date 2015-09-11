@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "0B416D24DDECC3E6779712A398DECB65A031BCD3",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "2323BA45DF6EB92C11B9FA6A0690923EF8956083" : 0,
+    "0B416D24DDECC3E6779712A398DECB65A031BCD3" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "8597863C-C686-4856-B1DA-02C2745E9B95",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "2323BA45DF6EB92C11B9FA6A0690923EF8956083" : "",
+    "0B416D24DDECC3E6779712A398DECB65A031BCD3" : "OSC-server-client\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "OSC server client",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "OSC server client.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Yerdikul\/OSC-server-client.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "0B416D24DDECC3E6779712A398DECB65A031BCD3"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/bitbucket.org\/Yerdikul\/nurgazy-wedding.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "2323BA45DF6EB92C11B9FA6A0690923EF8956083"
+    }
+  ]
+}
